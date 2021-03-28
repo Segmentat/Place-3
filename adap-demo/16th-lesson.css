@@ -33,7 +33,7 @@ header{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	width: 1080px;
+	max-width: 1080px;
 	margin: auto;
 	padding-top: 17px;
 	height: 100px;
