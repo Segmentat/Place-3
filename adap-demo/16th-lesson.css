@@ -33,7 +33,7 @@ header{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	max-width: 1080px;
+	width: 1080px;
 	margin: auto;
 	padding-top: 17px;
 	height: 100px;
@@ -42,7 +42,7 @@ header{
 }
 
 header nav{
-	max-width: 445px;
+	width: 445px;
 }
 
 .header-navigation{
@@ -72,7 +72,7 @@ header nav{
 
 h1{
 	font-size: 72px;
-	width: 100%;
+	max-width: 100%;
 	margin: auto;
 	max-width: 578px;
 	margin-top: 160px;
@@ -81,7 +81,7 @@ h1{
 
 .offer{
 	font-size: 24px;
-	width: 475px;
+	max-width: 475px;
 	margin: auto;
 	margin-top: 39px;
 	text-align: center;
